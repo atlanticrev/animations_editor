@@ -1,0 +1,11 @@
+class Figure {
+
+    constructor () {
+
+    }
+
+    draw () {
+
+    }
+
+}
